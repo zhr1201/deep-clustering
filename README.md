@@ -1,6 +1,6 @@
 # A tensorflow implementation of deep clustering for speech seperation
 This is a tensorflow implementation of the deep clustering paper: https://arxiv.org/abs/1508.04306
-A few exmaples from the test set can be viewed in /visualization_samples and /speech_samples
+A few exmaples from the test set can be viewed in visualization_samples/ and speech_samples/
 
 ## Requirements
 Python 2 and its packages:
